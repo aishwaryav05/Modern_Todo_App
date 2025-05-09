@@ -9,6 +9,8 @@ A clean, modern, and minimalistic To-Do List application built using Flutter. Th
 - 📅 Task organization by date/time (optional if implemented)
 - 🔁 State management with active and completed
 
+- API link : AIzaSyD7rQWzQVg-qsTFG-JLwY5mlvIA5iF5ojQ
+
 📸 Screenshots
 ![img](<Screenshot 2025-05-08 231114.png>) ![img](<Screenshot 2025-05-08 230604.png>) ![img](<Screenshot 2025-05-08 230616.png>) ![img](<Screenshot 2025-05-08 230716.png>) ![img](<Screenshot 2025-05-08 230833.png>) ![img](<Screenshot 2025-05-08 231049.png>) ![img](<Screenshot 2025-05-08 231104.png>)
 
@@ -16,9 +18,6 @@ A clean, modern, and minimalistic To-Do List application built using Flutter. Th
  🛠️ Tech Stack
 
 - Flutter (Dart)
-
-API link : AIzaSyD7rQWzQVg-qsTFG-JLwY5mlvIA5iF5ojQ
-
 
  📦 Getting Started
 
