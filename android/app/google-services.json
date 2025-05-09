@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250971998239",
+    "project_id": "modern-todo-app-9d0e6",
+    "storage_bucket": "modern-todo-app-9d0e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250971998239:android:54acbc458edb1180f0ad2a",
+        "android_client_info": {
+          "package_name": "com.example.moderntodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsfefo62jwEhSp5euQFIht0w1t2iFZyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
